@@ -1,7 +1,7 @@
 # CSV Fusion: Streamlining Data Integration 📊
 [![Made With Python ](https://img.shields.io/badge/Made%20with-Python-blue)](https://python.org/)  
 
-CSV Fusion is a Python-powered tool designed to combine multiple CSV files seamlessly while adding metadata for enhanced traceability. Whether you're dealing with massive datasets or small collections, this tool simplifies your workflow, ensuring accuracy and efficiency.
+CSV Fusion is a Python-powered tool designed to combine Big CSV files seamlessly while adding metadata for enhanced traceability. Whether you're dealing with massive datasets or small collections, this tool simplifies your workflow, ensuring accuracy and efficiency.
 ---
 
 ## 💎 Features  
