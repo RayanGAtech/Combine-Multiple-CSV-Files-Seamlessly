@@ -15,7 +15,7 @@ if os.path.exists(output_csv):
     os.remove(output_csv)
 
 # Define the correct header for the output CSV
-correct_header = ['prn', 'eventtype', 'terminal', 'time']
+correct_header = ['p1', 'p2', 'p3', 'p4']
 
 # Variable to track if the header has been written
 header_written = False
